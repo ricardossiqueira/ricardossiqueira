@@ -36,11 +36,14 @@
 <br/>
 <hr/>
 
-  ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
-  <div style="display: flex; justify-content: space-around"> 
-    <img align="left" alt="ricardossiqueira's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardossiqueira&show_icons=true&hide_border=true&count_private=true&hide=stars" />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardossiqueira&layout=compact&hide_border=true" />  
-  </div>
 
+<div style="display: flex;flex-flow: row-wrap;">
+
+<img  align="left"  alt="ricardossiqueira's GitHub Stats"  src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardossiqueira&show_icons=true&hide_border=true&count_private=true&hide=stars" />
+
+<img  align="left"  alt="ricardossiqueira's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardossiqueira&layout=compact&hide_border=true" />
+
+</div>
 
