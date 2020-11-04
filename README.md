@@ -1,7 +1,5 @@
 ### Hi there, I'm Ricardo 👋
 
-<br />
-
 ### Who am I?
 
  - 👨‍🎓 Student of Electronic Engineering at [UFRJ](https://ufrj.br/)
@@ -9,9 +7,7 @@
  - 💼 Currently working at [Fluxo Consultoria](https://fluxoconsultoria.poli.ufrj.br/)
  - 📝 Currently learning Elixir
 
-<br/>
----
-<br/>
+<hr/>
 
 ### Contact and Social
 
@@ -21,8 +17,7 @@
 [<img align="left" height="26px" src="https://simpleicons.org/icons/whatsapp.svg"/>](https://wa.me/5521989491661)
 
 <br/>
----
-<br/>
+<hr/>
 
 ### Languages and Tools
 
@@ -39,8 +34,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 
 <br/>
----
-<br/>
+<hr/>
 
   ⚡ GitHub Stats
 
