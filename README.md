@@ -1,11 +1,13 @@
+<link href="style.css" rel="stylesheet" />
+
 ### Hi there, I'm Ricardo 👋
 
-### Who am I?
+### Who am I
 
- - 👨‍🎓 Student of Electronic Engineering at [UFRJ](https://ufrj.br/)
- - 👨‍💼 Looking for an internship in web development
- - 💼 Currently working at [Fluxo Consultoria](https://fluxoconsultoria.poli.ufrj.br/)
- - 📝 Currently learning Elixir
+- 👨‍🎓 Student of Electronic Engineering at [UFRJ](https://ufrj.br/)
+- 👨‍💼 Looking for an internship in web development
+- 💼 Currently working at [Fluxo Consultoria](https://fluxoconsultoria.poli.ufrj.br/)
+- 📝 Currently learning Elixir
 
 <hr/>
 
@@ -36,14 +38,10 @@
 <br/>
 <hr/>
 
-### ⚡ GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  align="center"  alt="ricardossiqueira's GitHub Stats"  src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardossiqueira&show_icons=true&hide_border=true&count_private=true&hide=stars" />
+</a>
 
-
-<div style="display: flex;flex-flow: row-wrap;">
-
-<img  align="left"  alt="ricardossiqueira's GitHub Stats"  src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardossiqueira&show_icons=true&hide_border=true&count_private=true&hide=stars" />
-
-<img  align="left"  alt="ricardossiqueira's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardossiqueira&layout=compact&hide_border=true" />
-
-</div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  align="center"  alt="ricardossiqueira's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardossiqueira&layout=compact&hide_border=true" />
+</a>
