@@ -1,6 +1,20 @@
 <link href="style.css" rel="stylesheet" />
+<link href="script.js" rel="script" />
 
-### Hi there, I'm Ricardo 👋
+## Hi there, I'm Ricardo 👋
+
+[]()
+
+[<img align="left" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-santos-siqueira-1aaa1618b/" />](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-santos-siqueira-1aaa1618b/)
+
+[<img align="left" onclick="copyEmailToClipboard()" src="https://img.shields.io/badge/- Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://wa.me/5521989491661" />]()
+
+[<img align="left" src="https://img.shields.io/badge/- Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ricardossiqueira/" />](https://github.com/ricardossiqueira/)
+
+
+[<img align="left" src="https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5521989491661" />](https://wa.me/5521989491661)
+
+<br/>
 
 ### Who am I
 
@@ -11,19 +25,9 @@
 
 <hr/>
 
-### Contact and Social
-
-[<img align="left" height="26px" src="https://simpleicons.org/icons/linkedin.svg"/>](https://www.linkedin.com/in/ricardo-santos-siqueira-1aaa1618b/)
-[<img align="left" height="26px" src="https://simpleicons.org/icons/github.svg"/>](https://github.com/ricardossiqueira/)
-[<img align="left" height="26px" src="https://simpleicons.org/icons/gmail.svg"/>](ricardosantossiqueira@poli.ufrj.br)
-[<img align="left" height="26px" src="https://simpleicons.org/icons/whatsapp.svg"/>](https://wa.me/5521989491661)
-
-<br/>
-<hr/>
-
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
