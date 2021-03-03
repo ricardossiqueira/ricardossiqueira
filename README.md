@@ -15,11 +15,10 @@
 
 <br/>
 
-<br>
+<br/>
 
 <img src="https://media2.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e47huuyguzj96yazg20681bpmnond0ru41cbklqokn8&rid=giphy.gif" height="200"/>
 
-<br/>
 <hr/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
