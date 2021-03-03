@@ -15,12 +15,7 @@
 
 <br/>
 
-### Who am I
-
-- 👨‍🎓 Student of Electronic Engineering at [UFRJ](https://ufrj.br/)
-- 👨‍💼 Looking for an internship in web development
-- 💼 Currently working at [Fluxo Consultoria](https://fluxoconsultoria.poli.ufrj.br/)
-- 📝 Currently learning Elixir
+<iframe src="https://giphy.com/embed/VekcnHOwOI5So" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/digital-VekcnHOwOI5So">via GIPHY</a></p>
 
 <hr/>
 
