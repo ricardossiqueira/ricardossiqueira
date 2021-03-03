@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Ricardo 👋
 
-[]()
+
 
 [<img align="left" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-santos-siqueira-1aaa1618b/" />](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-santos-siqueira-1aaa1618b/)
 
@@ -15,23 +15,9 @@
 
 <br/>
 
-<iframe src="https://giphy.com/embed/VekcnHOwOI5So" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/digital-VekcnHOwOI5So">via GIPHY</a></p>
+<br>
 
-<hr/>
-
-### Languages and Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
-<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="Elixir" width="26px" src="https://simpleicons.org/icons/elixir.svg" />
-<img align="left" alt="Dart" width="26px" src="https://simpleicons.org/icons/dart.svg" />
-<img align="left" alt="React and React Native" width="26px" src="https://simpleicons.org/icons/react.svg"/>
-<img align="left" alt="Flutter" width="26px" src="https://simpleicons.org/icons/flutter.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
-<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
+<img src="https://media2.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e47huuyguzj96yazg20681bpmnond0ru41cbklqokn8&rid=giphy.gif" height="200"/>
 
 <br/>
 <hr/>
