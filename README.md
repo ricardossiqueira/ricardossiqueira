@@ -4,7 +4,7 @@
 
 
 
-[<img align="left" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-santos-siqueira-1aaa1618b/" />](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-santos-siqueira-1aaa1618b/)
+[<img align="left" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-santos-siqueira-1aaa1618b/" />](https://www.linkedin.com/in/ricardoss-/)
 
 <img align="left" src="https://img.shields.io/badge/- ricardosantossiqueira@poli.ufrj.br -red?style=flat-square&logo=Gmail&logoColor=white&" />
 
