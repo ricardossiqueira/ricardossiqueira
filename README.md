@@ -19,11 +19,11 @@
 
 <img src="https://media2.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e47huuyguzj96yazg20681bpmnond0ru41cbklqokn8&rid=giphy.gif" height="200"/>
 
-<hr/>
-
 <a href="https://github.com/ricardossiqueira/simple-spotify-stats">
-  <img  align="center"  alt="ricardossiqueira's Listening on Spotify"  src="https://simple-spotify-stats.herokuapp.com/" />
+  <img  align="center"  alt="ricardossiqueira's Listening on Spotify"  src="https://simple-spotify-stats.herokuapp.com/" loading="lazy" />
 </a>
+
+<hr/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  align="center"  alt="ricardossiqueira's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=ricardossiqueira&show_icons=true&hide_border=true&count_private=true&hide=stars" />
