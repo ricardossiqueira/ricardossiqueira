@@ -21,6 +21,10 @@
 
 <hr/>
 
+<a href="https://github.com/ricardossiqueira/simple-spotify-stats">
+  <img  align="center"  alt="ricardossiqueira's Listening on Spotify"  src="https://simple-spotify-stats.herokuapp.com/" />
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  align="center"  alt="ricardossiqueira's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=ricardossiqueira&show_icons=true&hide_border=true&count_private=true&hide=stars" />
 </a>
