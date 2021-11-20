@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet" />
-
 ## Hi there, I'm Ricardo 👋
 
 
@@ -20,7 +18,7 @@
 <img src="https://media2.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e47huuyguzj96yazg20681bpmnond0ru41cbklqokn8&rid=giphy.gif" height="200"/>
 
 <a href="https://github.com/ricardossiqueira/simple-spotify-stats">
-  <img  align="center"  alt="ricardossiqueira's Listening on Spotify"  src="https://simple-spotify-stats.herokuapp.com/" loading="lazy" />
+  <img  align="center"  alt="ricardossiqueira's Listening on Spotify"  src="https://simple-spotify-stats.herokuapp.com/" loading="eager" />
 </a>
 
 <hr/>
