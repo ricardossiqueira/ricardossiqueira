@@ -4,7 +4,6 @@
 
 <img align="left" src="https://img.shields.io/badge/- ricardosantossiqueira@poli.ufrj.br -red?style=flat-square&logo=Gmail&logoColor=white&" />
 
-[<img align="left" src="https://img.shields.io/badge/- Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ricardossiqueira/" />](https://github.com/ricardossiqueira/)
 
 
 <br/>
